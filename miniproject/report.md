@@ -7,7 +7,7 @@ This dataset contains scraped data from Cars24, a popular online marketplace for
 Predicting used car prices in market based on key factors such as:  
 - Engine type 
 - Model
-- **Year 
+- Year 
 - Kilometers driven
 - Fuel type
 - Other relevant categories  
