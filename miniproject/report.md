@@ -5,12 +5,17 @@ This dataset contains scraped data from Cars24, a popular online marketplace for
 
 ## Prediction Goal  
 Predicting used car prices in market based on key factors such as:  
-- Engine type 
+- Engine Capacity
 - Model
-- Year 
+- Manufacturing Year
+- Price
 - Kilometers driven
 - Fuel type
-- Other relevant categories  
+- Transmission Type ( Automatic, Manual)
+- Ownership History (First-hand, Second-hand, etc.)
+- Availability of Spare Key
+- Imperfections
+- Repainted Parts
 
 ## Data Cleaning  
 - The dataset had no missing values.  
